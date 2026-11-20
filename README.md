@@ -1,11 +1,11 @@
-# Olá, sou o José Lameiras 👋
+# Olá, sou o José Lameiras
 
 Licenciado em **Engenharia Informática** pelo Instituto Politécnico de Castelo Branco (2026), a viver na Marinha Grande (Leiria). Procuro o primeiro emprego ou Estágio Profissional como **programador back-end / full-stack**.
 
-- 🏭 Desenvolvi sozinho um **sistema de RH e registo de ponto** que está **em uso numa fábrica** (AC Partners) — Java/Spring Boot, PostgreSQL, React e uma app React Native para tablet que funciona sem ligação.
-- 🛠️ Neste momento estou a desenvolver as **folhas de produção digitais** para as máquinas de injeção da mesma fábrica.
-- 🌐 Portfólio: [jose-lameiras.github.io](https://jose-lameiras.github.io) · LinkedIn: [jjlameiras](https://www.linkedin.com/in/jjlameiras)
-- 📫 josejoao342@gmail.com
+- Desenvolvi sozinho um **sistema de RH e registo de ponto** que está **em uso numa fábrica** (AC Partners) — Java/Spring Boot, PostgreSQL, React e uma app React Native para tablet que funciona sem ligação.
+- Neste momento estou a desenvolver as **folhas de produção digitais** para as máquinas de injeção da mesma fábrica.
+- Portfólio: [jose-lameiras.github.io](https://jose-lameiras.github.io) · LinkedIn: [jjlameiras](https://www.linkedin.com/in/jjlameiras)
+- josejoao342@gmail.com
 
 ## Tecnologias
 
