@@ -22,5 +22,5 @@ Licenciado em **Engenharia Informática** pelo Instituto Politécnico de Castelo
 | [Projetos AC Partners](https://github.com/Jose-Lameiras/projetos-ac-partners) | Sistema de RH e ponto em produção e folhas de produção digitais (apresentação — código privado) | Spring Boot, PostgreSQL, React, React Native |
 | [clientAPI](https://github.com/Jose-Lameiras/clientAPI) | API REST de gestão de clientes e documentos (projeto de curso da Coursera; código gerado com o Qwen3.9 9B local, revisto, testado e alterado por mim) | Java 21, Spring Boot, Docker |
 | RefleteConsumo | Projeto final de licenciatura (com um colega): app móvel que ajuda a reduzir compras impulsivas, separando o desejo de compra do gasto real (código privado) | React Native (Expo), Node.js/Express, MongoDB |
-| [UberShop_JSP](https://github.com/Jose-Lameiras/UberShop_JSP) | Loja online com perfis de cliente, funcionário e administrador | Java, JSP/Servlets, JDBC, MySQL |
+| [UberShop_JSP](https://github.com/Jose-Lameiras/UberShop_JSP) | Loja online com perfis de cliente, funcionário e administrador | Java, JSP, JDBC, MySQL |
 | [FelixBusPHP](https://github.com/Jose-Lameiras/FelixBusPHP) | Venda de bilhetes de autocarro com carteira digital e gestão de rotas | PHP, MySQL |
